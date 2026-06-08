@@ -1,16 +1,20 @@
-## Hi there 👋
+# August1ne-zzy
 
-<!--
-**August1ne-zzy/August1ne-zzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Engineering student at Chuo University.
 
-Here are some ideas to get you started:
+I am interested in system operation, system management, IT infrastructure, financial systems, and data utilization.
+Through university coursework, I have studied programming, databases, and basic data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Programming: C, C++, Java, Python
+* Database: SQL
+* Data analysis tools: Excel, QGIS
+* Interests: system operation, system management, IT infrastructure, financial digital systems
+
+## Coursework and projects
+
+* Programming practice using C, Java, and Python
+* SQL practice including filtering, aggregation, and basic database operations
+* QGIS-based analysis using evacuation facility, tsunami inundation, and population data
+* Point cloud data processing with Python
